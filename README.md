@@ -18,14 +18,10 @@
 | Project | Description | Link |
 |---------|-------------|------|
 
-## 📫 How to Reach Me
-- [LinkedIn](none)  
-- [Twitter](none)  
+## 📫 How to Reach Me 
 - [Email](kacperpilichowicz@icloud.com)  
 
-## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ---
 
-*"Code is poetry, and every commit is a verse"* ✨
+*"Chodźcie nogami po ziemii, a sercem mieszkajcie w niebie"* ✨
