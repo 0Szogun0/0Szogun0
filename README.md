@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on: None 
-- 🌱 Learning: react.js, fastapi
+- 🌱 Learning: TS, Angular, C#
 - 👯 Looking to collaborate on: None
 - 💬 Ask me about: Python, anime, life and web dev
 - ⚡ Interests: Gaming, anime, webdev, gamedev
@@ -19,7 +19,7 @@
 |---------|-------------|------|
 
 ## 📫 How to Reach Me 
-- [Email](kacperpilichowicz@icloud.com)  
+- No 
 
 
 ---
