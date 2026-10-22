@@ -24,4 +24,4 @@
 
 ---
 
-*"Chodźcie nogami po ziemii, a sercem mieszkajcie w niebie"* ✨
+*"To, że widzisz uśmiech, nie znaczy, że wiesz, co się dzieje pod spodem. Uśmiech to cenne narzędzie, moja droga! Inspiruje przyjaciół, trzyma wrogów w niepewności..."* ✨
